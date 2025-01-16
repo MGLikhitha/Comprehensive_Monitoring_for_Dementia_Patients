@@ -18,6 +18,7 @@ Internet of Things (IoT): For real-time monitoring using sensors and microcontro
 Machine Learning: To analyze data and predict patient needs.
 
 MQTT Protocol: For efficient and secure communication between devices.
+![c956de36-facf-492f-94e3-b1847615353b](https://github.com/user-attachments/assets/2452c4fd-4e45-4e4b-aff3-4052c421de91)
 
 
 
