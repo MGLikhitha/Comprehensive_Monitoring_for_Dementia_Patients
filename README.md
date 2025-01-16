@@ -14,7 +14,9 @@ Personalized Care: Tailored care plans based on individual needs and conditions.
 Technologies Used
 
 Internet of Things (IoT): For real-time monitoring using sensors and microcontrollers.
+
 Machine Learning: To analyze data and predict patient needs.
+
 MQTT Protocol: For efficient and secure communication between devices.
 
 
